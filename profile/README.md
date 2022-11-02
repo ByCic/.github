@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="./default.png">
+  <img src="./Banner.png">
 </div>
